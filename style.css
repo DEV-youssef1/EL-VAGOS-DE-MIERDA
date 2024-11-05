@@ -1,0 +1,83 @@
+
+* {
+    box-sizing: border-box;
+}
+.hassan {
+float: left;
+width: 33.33%;
+padding: 5px;
+}
+.t2::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.h11 {
+    font-size: 100px;
+}
+.a1 {
+    font-size: 30px;
+}
+.a8 {
+    font-size: 30px;
+}
+.a7 {
+    font-size: 30px;
+}
+.h12 {
+    font-size: 100px;
+}
+.paris {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    }
+    .t3::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    .a0 {
+        font-size: 30px;
+    }
+    .a4 {
+        font-size: 30px;
+    }
+    .a3 {
+        font-size: 30px;
+    }
+    .Gizeh {
+        float: left;
+        width: 33.33%;
+        padding: 5px;
+        }
+        .t3::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .h15 {
+            font-size: 100px;
+        }
+        .a12 {
+            font-size: 30px;
+        }
+        .a10 {
+            font-size: 30px;
+        }
+        .a11 {
+            font-size: 30px;
+        }
+        .w1{
+            background-color: rgb(255, 0, 0) rgb(52, 255, 58);
+            
+        }
+        .maroc {
+            width: 100%;
+            height: 100%;
+           /* filter: blur(5px); */
+           /* filter: brightness(0.8); */
+           /* filter: contrast(300px); */
+           /* filter: grayscale(100%); */
+           filter: hue-rotate(80eg);
+        }
